@@ -133,11 +133,11 @@
 	<rect id="Slider-3" x="74.5" y="171.5" class="st1" width="5" height="8"/>
 </g>
 <g id="Sparks">
-	<line class="st13" x1="120.3" y1="74" x2="129.3" y2="74"/>
-	<line class="st13" x1="133.4" y1="42.4" x2="139.7" y2="48.7"/>
-	<line class="st13" x1="165" y1="29.3" x2="165" y2="38.3"/>
-	<line class="st13" x1="196.6" y1="42.4" x2="190.3" y2="48.7"/>
-	<line class="st13" x1="209.7" y1="74" x2="200.7" y2="74"/>
+	<line class="st13" x2="120.3" y2="74" x1="129.3" y1="74"/>
+	<line class="st13" x2="133.4" y2="42.4" x1="139.7" y1="48.7"/>
+	<line class="st13" x2="165" y2="29.3" x1="165" y1="38.3"/>
+	<line class="st13" x2="196.6" y2="42.4" x1="190.3" y1="48.7"/>
+	<line class="st13" x2="209.7" y2="74" x1="200.7" y1="74"/>
 </g>
 <script xlink:href="./anime.js"></script>	
 <script xlink:href="./animation-6.js"></script>	 

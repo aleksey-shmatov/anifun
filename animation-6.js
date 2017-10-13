@@ -1,5 +1,10 @@
+var CHART_ANIM_DURATION = 1500;
+var BUBBLE_POPUP_DURATION = 1000;
+var BUBBLE_POPUP_DELAY = 3000;
+var SPARK_ANIM_DURATION = 500;
+
 var timeline = anime.timeline({
-    direction: "alternate",
+    direction: 'alternate',
     loop: true
 });
 
@@ -9,7 +14,7 @@ timeline.add({
     translateY: -8,
     easing: 'linear',
     offset: 0,
-    duration: 3000
+    duration: CHART_ANIM_DURATION
 });
 
 animateLineChart(timeline);
@@ -17,28 +22,16 @@ animateBars(timeline);
 animatePieChart3(timeline);
 animateSliders(timeline);
 animateBubble(timeline);
-animateSparks(timeline);
+
+animateLines(timeline, '#Sparks>line', BUBBLE_POPUP_DELAY, SPARK_ANIM_DURATION);
 
 function animateBubble(timeline) {
-    var bubble = document.querySelector('#Bubble');
-    bubble.style.transform= 'translateY(60px)';
     timeline.add({
-        targets: bubble,
-        translateY: 0,
+        targets: '#Bubble',
+        translateY: [60, 0],
         easing: 'linear',
-        duration: 1000          
+        duration: BUBBLE_POPUP_DURATION          
     });   
-}
-
-function animateSparks(timeline) {
-    var sparks = document.querySelector('#Sparks');
-    sparks.style.opacity = 0; 
-    timeline.add({
-        targets: sparks,
-        opacity: 1,
-        easing: 'linear',
-        duration: 500          
-    }); 
 }
 
 function animateSliders(timeline) {
@@ -51,7 +44,7 @@ function animateSliders(timeline) {
         },
         easing: 'linear',
         offset: 0,
-        duration: 3000        
+        duration: CHART_ANIM_DURATION        
     });
 }
 
@@ -63,7 +56,7 @@ function animateLineChart(timeline) {
         x2: path('x'),
         easing: 'linear',
         offset: 0,
-        duration: 3000
+        duration: CHART_ANIM_DURATION
     });
     timeline.add({
         targets: '#LineCircle',
@@ -71,7 +64,7 @@ function animateLineChart(timeline) {
         cy: path('y'),
         easing: 'linear',
         offset: 0,
-        duration: 3000
+        duration: CHART_ANIM_DURATION
     });
 }
 
@@ -95,11 +88,11 @@ function animateBars(timeline){
             return values[i].y;        
         },
         delay: function(x, i){
-            return i * 1000;
+            return i * CHART_ANIM_DURATION / 3;
         },
         easing: 'linear',
         offset: 0,
-        duration: 1000
+        duration: CHART_ANIM_DURATION / 3
     });
 }
 
@@ -111,13 +104,25 @@ function animatePieChart3(timeline) {
     }
     timeline.add({
         targets: highlights,
-        opacity: [{value: 1, duration: 500}, {value: 0, duration: 1000}],
+        opacity: [{value: 1, duration: 250}, {value: 0, duration: 500}],
         delay: function(x, i){
-            return i * 1000;
+            return i * CHART_ANIM_DURATION / 3;
         },        
         easing: 'linear',
         offset: 0,
-        duration: 1000
+        duration: CHART_ANIM_DURATION / 3
     });
+}
+
+function animateLines(timeline, targets, totalDelay, duration) {
+    const count = Math.round( totalDelay / (2 * duration) );
+    for(var i = 0; i < count;i++){
+        timeline.add({
+            targets: targets,
+            strokeDashoffset: (i % 2)? [0, anime.setDashoffset] : [anime.setDashoffset, 0],        
+            easing: 'linear',
+            duration: duration     
+        });
+    }
 }
 
