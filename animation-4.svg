@@ -1,105 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 330 330" style="enable-background:new 0 0 330 330;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#F3F5F7;}
-	.st1{fill:none;stroke:#A1F2FF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:#FFFFFF;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st3{fill:url(#SVGID_1_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st4{fill:url(#SVGID_2_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st5{fill:url(#SVGID_3_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill:url(#SVGID_4_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st7{fill:url(#SVGID_5_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st8{fill:none;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st9{fill:url(#SVGID_6_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st10{fill:url(#SVGID_7_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st11{fill:url(#SVGID_8_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st12{fill:url(#SVGID_9_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-</style>
-<circle id="Background" class="st0" cx="165" cy="160.5" r="124.5"/>
-<rect id="FilesPath" x="106" y="74.1" transform="matrix(0.7071 0.7071 -0.7071 0.7071 142.9817 -77.8797)" class="st1" width="119" height="119"/>
-<g id="Item-1">
-	<path class="st2" d="M182.5,63h-34.4c-1.5,0-2.6-1.2-2.6-2.6V27.3H160l4,5.3h21.2v27.8C185.2,61.9,184,63,182.5,63z"/>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="156.7093" y1="54.4441" x2="173.9139" y2="54.4441">
-		<stop  offset="0.15" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.85" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<path class="st3" d="M173.9,57.8h-17.2V55c0-0.9,0.5-1.8,1.3-2.3c1.3-0.7,3.5-1.6,7.3-1.6s6,0.9,7.3,1.6c0.8,0.5,1.3,1.3,1.3,2.3
-		V57.8z"/>
-	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="160.6796" y1="42.8641" x2="169.9436" y2="42.8641">
-		<stop  offset="0.15" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.85" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<path class="st4" d="M160.7,42.5c0-2.6,2.1-4.6,4.6-4.6c2.6,0,4.6,2.1,4.6,4.6s-2.1,5.3-4.6,5.3S160.7,45.1,160.7,42.5z"/>
-</g>
-<g id="Item-4">
-	<path class="st2" d="M97.3,150.4H62.8c-1.5,0-2.6-1.2-2.6-2.6v-33.1h14.6l4,5.3h21.2v27.8C99.9,149.2,98.7,150.4,97.3,150.4z"/>
-	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="78.069" y1="135.1582" x2="82.0393" y2="135.1582">
-		<stop  offset="0.15" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.85" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<rect x="78.1" y="128.5" class="st5" width="4" height="13.2"/>
-	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="69.4667" y1="139.4594" x2="73.437" y2="139.4594">
-		<stop  offset="0.15" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.85" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<rect x="69.5" y="137.1" class="st6" width="4" height="4.6"/>
-	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="86.6713" y1="137.8051" x2="90.6416" y2="137.8051">
-		<stop  offset="0.15" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.85" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<rect x="86.7" y="133.8" class="st7" width="4" height="7.9"/>
-</g>
-<g id="Item-2">
-	<rect x="235.1" y="120.5" class="st2" width="24.3" height="28.8"/>
-	<polyline class="st8" points="238.1,116 263.9,116 263.9,146.3 	"/>
-	<line class="st2" x1="241.2" y1="128.1" x2="253.3" y2="128.1"/>
-	<line class="st2" x1="241.2" y1="134.2" x2="253.3" y2="134.2"/>
-	<line class="st2" x1="241.2" y1="140.2" x2="247.2" y2="140.2"/>
-</g>
-<g id="Monitor">
-	<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="104" y1="218" x2="227" y2="218">
-		<stop  offset="0.2118" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.6546" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<rect x="104" y="178" class="st9" width="123" height="80"/>
-	<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="153" y1="269" x2="178" y2="269">
-		<stop  offset="0.2118" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.6546" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<rect x="153" y="258" class="st10" width="25" height="22"/>
-	<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="130.5" y1="282.75" x2="200.5" y2="282.75">
-		<stop  offset="0.2118" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.6546" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<rect x="130.5" y="280" class="st11" width="70" height="5.5"/>
-	<rect x="112" y="186" class="st2" width="107" height="57"/>
-	<circle class="st2" cx="165" cy="250.4" r="2.5"/>
-</g>
-<g id="Item-3">
-	<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="150.8377" y1="214.5114" x2="179.4238" y2="214.5114">
-		<stop  offset="0.15" style="stop-color:#A1F2FF"/>
-		<stop  offset="0.85" style="stop-color:#6BD7FF"/>
-	</linearGradient>
-	<polygon class="st12" points="172.3,196.6 150.8,196.6 150.8,232.4 179.4,232.4 179.4,203.8 	"/>
-	<polyline class="st8" points="172.3,196.6 172.3,203.8 179.4,203.8 	"/>
-	<circle class="st2" cx="165.1" cy="214.5" r="8.3"/>
-	<polyline class="st8" points="165.1,206.2 165.1,214.5 173.5,214.5 	"/>
-</g>
-<g id="PriceTag">
-	<rect x="161" y="146" class="st2" width="8" height="32"/>
-	<path class="st2" d="M175,109h-20c-5.5,0-10,4.5-10,10v34h40v-34C185,113.5,180.5,109,175,109z"/>
-	<g>
-		<line class="st8" x1="164.8" y1="119" x2="164.8" y2="143"/>
-		<path class="st8" d="M170.8,123.8c-2.7-1.4-11.5-2.5-11.5,2.4c0,5.8,10.9,3.8,10.9,8.9s-7.1,4.8-12,3.1"/>
-	</g>
-</g>
-<g id="Sparks">
-	<line class="st1" x1="129" y1="130" x2="136.2" y2="130"/>
-	<line class="st1" x1="139.5" y1="104.5" x2="144.6" y2="109.6"/>
-	<line class="st1" x1="165" y1="94" x2="165" y2="101.2"/>
-	<line class="st1" x1="190.5" y1="104.5" x2="185.4" y2="109.6"/>
-	<line class="st1" x1="201" y1="130" x2="193.8" y2="130"/>
-</g>
+<!--Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" style="enable-background:new 65 -65 330 330;" version="1.1" viewBox="65 -65 330 330" xml:space="preserve">
+    <style type="text/css">
+        .st0{fill:#F3F5F7;} 
+		.st1{fill:none;stroke:#A1F2FF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st2{fill: #FFFFFF;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st3{fill:none;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+        .st4{fill:url(#SVGID_1_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st5{fill:url(#SVGID_2_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st6{fill:url(#SVGID_3_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st7{fill:url(#SVGID_4_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st8{fill:url(#SVGID_5_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st9{fill:url(#SVGID_6_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st10{fill:url(#SVGID_7_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st11{fill:url(#SVGID_8_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st12{fill:#FFFFFF;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st13{display:inline;fill:#FFFFFF;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st-clockline{display:inline;fill:none;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+        .st14{display:inline;fill:url(#SVGID_CLOCK_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st15{fill:url(#SVGID_9_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st16{fill:url(#SVGID_10_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st17{fill:url(#SVGID_11_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st18{fill:url(#SVGID_12_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} 
+		.st19{fill:url(#SVGID_13_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    </style>
+    <circle id="Background" cx="230" cy="95.5" r="124.5" class="st0"/>
+    <rect id="FilesPath" width="119" height="119" x="171" y="9.1" class="st1" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 345.0359 280.1464)"/>
+    <g id="PriceTag">
+        <rect width="8" height="32" x="226" y="81" class="st2"/>
+        <path d="M240,44h-20c-5.5,0-10,4.5-10,10v34h40V54C250,48.5,245.5,44,240,44z" class="st2"/>
+        <g>
+            <line x1="229.8" x2="229.8" y1="54" y2="78" class="st3"/>
+            <path d="M235.8,58.8c-2.7-1.4-11.5-2.5-11.5,2.4c0,5.8,10.9,3.8,10.9,8.9s-7.1,4.8-12,3.1" class="st3"/>
+        </g>
+    </g>
+    <g>
+        <g id="Item-1">
+            <path d="M247.5-2h-34.4c-1.5,0-2.6-1.2-2.6-2.6v-33.1H225l4,5.3h21.2v27.8C250.2-3.1,249-2,247.5-2z" class="st2"/>
+            <linearGradient id="SVGID_4_" x1="221.7" x2="238.9" y1="210.55" y2="210.55" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <path d="M238.9-7.2h-17.2V-10c0-0.9,0.5-1.8,1.3-2.3c1.3-0.7,3.5-1.6,7.3-1.6s6,0.9,7.3,1.6c0.8,0.5,1.3,1.3,1.3,2.3
+			L238.9-7.2L238.9-7.2z" class="st7"/>
+            <linearGradient id="SVGID_5_" x1="225.6796" x2="234.9436" y1="222.15" y2="222.15" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <path d="M225.7-22.5c0-2.6,2.1-4.6,4.6-4.6c2.6,0,4.6,2.1,4.6,4.6s-2.1,5.3-4.6,5.3S225.7-19.9,225.7-22.5z" class="st8"/>
+        </g>
+        <g id="Item-2">
+            <rect width="24.3" height="28.8" x="300.1" y="55.5" class="st2"/>
+            <polyline points="303.1,51 328.9,51 328.9,81.3 		" class="st3"/>
+            <line x1="306.2" x2="318.3" y1="63.1" y2="63.1" class="st3"/>
+            <line x1="306.2" x2="318.3" y1="69.2" y2="69.2" class="st3"/>
+            <line x1="306.2" x2="312.2" y1="75.2" y2="75.2" class="st3"/>
+        </g>
+		<g id="Item-3">
+            <polygon points="236.3,131.6 214.8,131.6 214.8,167.4 243.4,167.4 243.4,138.8 		" class="st13"/>
+            <polyline points="236.3,131.6 236.3,138.8 243.4,138.8 		" class="st13"/>
+            <linearGradient id="SVGID_CLOCK_" x1="220.8" x2="237.4" y1="141.2" y2="157.8" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <circle cx="229.1" cy="149.5" r="8.3" class="st14"/>
+            <polyline points="229.1,141.2 229.1,149.5 237.5,149.5 		" class="st-clockline"/>
+        </g>
+        <g id="Item-4">
+            <path d="M162.3,85.4h-34.5c-1.5,0-2.6-1.2-2.6-2.6V49.7h14.6l4,5.3H165v27.8C164.9,84.2,163.7,85.4,162.3,85.4z" class="st2"/>
+            <linearGradient id="SVGID_6_" x1="143.069" x2="147.0393" y1="129.9" y2="129.9" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <rect width="4" height="13.2" x="143.1" y="63.5" class="st9"/>
+            <linearGradient id="SVGID_7_" x1="134.4667" x2="138.437" y1="125.6" y2="125.6" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <rect width="4" height="4.6" x="134.5" y="72.1" class="st10"/>
+            <linearGradient id="SVGID_8_" x1="151.6713" x2="155.6416" y1="127.25" y2="127.25" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <rect width="4" height="7.9" x="151.7" y="68.8" class="st11"/>
+        </g>
+    </g>
+	<g id="Monitor">
+        <linearGradient id="SVGID_1_" x1="169" x2="292" y1="47" y2="47" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+            <stop offset="0.2118" style="stop-color:#A1F2FF"/>
+            <stop offset="0.6546" style="stop-color:#6BD7FF"/>
+        </linearGradient>
+        <rect width="123" height="80" x="169" y="113" class="st4"/>
+        <linearGradient id="SVGID_2_" x1="218" x2="243" y1="-4" y2="-4" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+            <stop offset="0.2118" style="stop-color:#A1F2FF"/>
+            <stop offset="0.6546" style="stop-color:#6BD7FF"/>
+        </linearGradient>
+        <rect width="25" height="22" x="218" y="193" class="st5"/>
+        <linearGradient id="SVGID_3_" x1="195.5" x2="265.5" y1="-17.75" y2="-17.75" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+            <stop offset="0.2118" style="stop-color:#A1F2FF"/>
+            <stop offset="0.6546" style="stop-color:#6BD7FF"/>
+        </linearGradient>
+        <rect width="70" height="5.5" x="195.5" y="215" class="st6"/>
+        <rect width="107" height="57" x="177" y="121" class="st2"/>
+        <circle cx="230" cy="185.4" r="2.5" class="st2"/>
+    </g>
+    <g id="Sparks">
+        <line x1="201.2" x2="194" y1="65" y2="65" class="st1"/>
+        <line x1="209.6" x2="204.5" y1="44.6" y2="39.5" class="st1"/>
+        <line x1="230" x2="230" y1="36.2" y2="29" class="st1"/>
+        <line x1="250.4" x2="255.5" y1="44.6" y2="39.5" class="st1"/>
+        <line x1="258.8" x2="266" y1="65" y2="65" class="st1"/>
+    </g>
+    <g id="DisplayItems">
+	    <g id="DisplayItem-1">
+            <path d="M247.5,167.4h-34.4c-1.5,0-2.6-1.2-2.6-2.6v-33.1H225l4,5.3h21.2v27.8C250.2,166.2,249,167.4,247.5,167.4z" class="st2"/>
+            <linearGradient id="SVGID_12_" x1="221.7" x2="238.9" y1="41.2" y2="41.2" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <path d="M238.9,162.1h-17.2v-2.8c0-0.9,0.5-1.8,1.3-2.3c1.3-0.7,3.5-1.6,7.3-1.6s6,0.9,7.3,1.6
+			c0.8,0.5,1.3,1.3,1.3,2.3L238.9,162.1L238.9,162.1z" class="st18"/>
+            <linearGradient id="SVGID_13_" x1="225.6796" x2="234.9436" y1="52.8" y2="52.8" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <path d="M225.7,146.9c0-2.6,2.1-4.6,4.6-4.6c2.6,0,4.6,2.1,4.6,4.6s-2.1,5.3-4.6,5.3S225.7,149.4,225.7,146.9z" class="st19"/>
+        </g>
+		<g id="DisplayItem-2">
+            <rect width="24.3" height="28.8" x="214.7" y="135.8" class="st2"/>
+            <polyline points="217.7,131.3 243.5,131.3 243.5,161.6 		" class="st3"/>
+            <line x1="220.8" x2="232.9" y1="143.4" y2="143.4" class="st3"/>
+            <line x1="220.8" x2="232.9" y1="149.5" y2="149.5" class="st3"/>
+            <line x1="220.8" x2="226.8" y1="155.5" y2="155.5" class="st3"/>
+        </g>
+        <g id="DisplayItem-3">
+            <polygon points="236.3,131.6 214.8,131.6 214.8,167.4 243.4,167.4 243.4,138.8 		" class="st3"/>
+            <polyline points="236.3,131.6 236.3,138.8 243.4,138.8 		" class="st3"/>
+            <linearGradient id="SVGID_CLOCK_1" x1="220.8" x2="237.4" y1="141.2" y2="157.8" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <circle cx="229.1" cy="149.5" r="8.3" class="st14"/>
+            <polyline points="229.1,141.2 229.1,149.5 237.5,149.5 		" class="st-clockline"/>
+        </g>
+        <g id="DisplayItem-4">
+            <path d="M247.2,167.4h-34.5c-1.5,0-2.6-1.2-2.6-2.6v-33.1h14.6l4,5.3h21.2v27.8C249.8,166.2,248.6,167.4,247.2,167.4z" class="st2"/>
+            <linearGradient id="SVGID_9_" x1="227.969" x2="231.9393" y1="47.95" y2="47.95" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <rect width="4" height="13.2" x="228" y="145.5" class="st15"/>
+            <linearGradient id="SVGID_10_" x1="219.3667" x2="223.337" y1="43.65" y2="43.65" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <rect width="4" height="4.6" x="219.4" y="154.1" class="st16"/>
+            <linearGradient id="SVGID_11_" x1="236.5713" x2="240.5416" y1="45.3" y2="45.3" gradientTransform="matrix(1 0 0 -1 0 200)" gradientUnits="userSpaceOnUse">
+                <stop offset="0.15" style="stop-color:#A1F2FF"/>
+                <stop offset="0.85" style="stop-color:#6BD7FF"/>
+            </linearGradient>
+            <rect width="4" height="7.9" x="236.6" y="150.8" class="st17"/>
+        </g>
+    </g>
+	<script xlink:href="./anime.js"/>
+    <script xlink:href="./animation-4.js"/>
 </svg>
