@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="65 -65 330 330" style="enable-background:new 65 -65 330 330;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F3F5F7;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_1_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:url(#SVGID_2_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:url(#SVGID_3_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:url(#SVGID_4_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:url(#SVGID_5_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:url(#SVGID_6_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#A1F2FF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st10{fill:url(#LampHighlight_1_);}
+	.st11{fill:#00A1C6;}
+	.st12{clip-path:url(#SVGID_8_);}
+	.st13{fill:url(#SVGID_9_);stroke:#00A1C6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	#Document {transform-origin: 123.5px 4px;}
+	#Screw-1 {transform-origin: 165.8px 180.4px;}
+	#Screw-2 {transform-origin: 203.8px 180.4px;}
+	#Screw-3 {transform-origin: 343.7px 180.4px;}
+	#Belt {fill: url(#belt-pattern);}
+	#MeterArrow {transform-origin: 289.5px 109.7px;}
+	.document-container {transform: translateX( -104px);}
+	#FallTrajectory {display: none;}
+</style>
+<g>
+	<pattern id="belt-line-pattern" x="0" y="0" width="200" height="10" patternUnits="userSpaceOnUse">
+		<line x1="0" y1="1" x2="200" y2="1" class="st3 belt-line" />
+	</pattern>
+	<pattern id="belt-pattern" x="0" y="0" width="100" height="100" patternUnits="userSpaceOnUse">
+		<rect class="belt-pattern" width="100" height="100" fill="url(#belt-line-pattern)"/>
+	</pattern>
+</g>
+<path class="st0" d="M318.8,149.6h25c17,0,30.8,13.8,30.8,30.8l0,0c0,17-13.8,30.8-30.8,30.8h-25"/>
+<g>
+	<path id="MainBox" class="st1" d="M318.8,57.9c0-4.2-3.4-7.7-7.7-7.7H250h-27.1h-53.5c-4.2,0-7.7,3.4-7.7,7.7V150l65.4,61.3h30.6
+		h61.1V140L318.8,57.9L318.8,57.9z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="89.1" y1="180.5" x2="170.8" y2="180.5">
+		<stop  offset="0.2118" style="stop-color:#A1F2FF"/>
+		<stop  offset="0.6546" style="stop-color:#6BD7FF"/>
+	</linearGradient>
+	<path class="st2" d="M170.8,211.3h-50.9c-17,0-30.8-13.8-30.8-30.8l0,0c0-17,13.8-30.8,30.8-30.8h50.9"/>
+	<path id="Belt" d="M170.8,211.3h-50.9c-17,0-30.8-13.8-30.8-30.8l0,0c0-17,13.8-30.8,30.8-30.8h50.9"/>
+	<path class="st0" d="M227.1,149.6h-60.9c-17,0-30.8,13.8-30.8,30.8l0,0c0,17,13.8,30.8,30.8,30.8h60.9L227.1,149.6"/>
+	<path class="st1" d="M374.7,180.4"/>
+	<polyline id="Entrance" class="st0" points="227.1,149.6 227.1,80.4 180.5,80.4 180.5,149.6 	"/>
+	<g id="Screw-1">
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="152.8" y1="180.4" x2="178.7652" y2="180.4">
+			<stop  offset="0.15" style="stop-color:#A1F2FF"/>
+			<stop  offset="0.85" style="stop-color:#6BD7FF"/>
+		</linearGradient>
+		<circle class="st4" cx="165.8" cy="180.4" r="13"/>
+		<line class="st3" x1="165.8" y1="193.4" x2="165.8" y2="167.4"/>
+	</g>
+	<g id="Screw-2">
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="190.8" y1="180.4" x2="216.7652" y2="180.4">
+			<stop  offset="0.15" style="stop-color:#A1F2FF"/>
+			<stop  offset="0.85" style="stop-color:#6BD7FF"/>
+		</linearGradient>
+		<circle class="st5" cx="203.8" cy="180.4" r="13"/>
+		<line class="st3" x1="194.6" y1="189.6" x2="213" y2="171.3"/>
+	</g>
+	<g id="Screw-3">
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="330.7" y1="180.4" x2="356.6652" y2="180.4">
+			<stop  offset="0.15" style="stop-color:#A1F2FF"/>
+			<stop  offset="0.85" style="stop-color:#6BD7FF"/>
+		</linearGradient>
+		<circle class="st6" cx="343.7" cy="180.4" r="13"/>
+		<line class="st3" x1="343.7" y1="193.4" x2="343.7" y2="167.4"/>
+	</g>
+	<line class="st3" x1="277.1" y1="168.9" x2="300.7" y2="168.9"/>
+	<line class="st3" x1="277.1" y1="176.4" x2="300.7" y2="176.4"/>
+	<line class="st3" x1="277.1" y1="184" x2="300.7" y2="184"/>
+	<g>
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="273.3" y1="109.7" x2="305.7" y2="109.7">
+			<stop  offset="0.15" style="stop-color:#A1F2FF"/>
+			<stop  offset="0.85" style="stop-color:#6BD7FF"/>
+		</linearGradient>
+		<circle class="st7" cx="289.5" cy="109.7" r="16.2"/>
+		<line class="st3" x1="289.5" y1="97.2" x2="289.5" y2="99.9"/>
+		<line class="st3" x1="298.3" y1="100.9" x2="296.4" y2="102.8"/>
+		<line class="st3" x1="301.9" y1="109.7" x2="299.2" y2="109.7"/>
+		<line class="st3" x1="277.1" y1="109.7" x2="279.8" y2="109.7"/>
+		<line id="MeterArrow" class="st3" x1="287.2" y1="107.4" x2="280.8" y2="101"/>
+		<circle class="st1" cx="289.5" cy="109.7" r="3.2"/>
+		<line class="st3" x1="283" y1="102.8" x2="281.1" y2="100.9"/>
+	</g>
+	<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="209.7" y1="46.4" x2="270.5" y2="46.4">
+		<stop  offset="0.15" style="stop-color:#A1F2FF"/>
+		<stop  offset="0.85" style="stop-color:#6BD7FF"/>
+	</linearGradient>
+	<rect x="209.7" y="42.6" class="st8" width="60.8" height="7.6"/>
+	<g>
+		<g id="Sparks">
+			<line class="st9" x2="203.1" y2="0.7" x1="210.5" y1="0.7"/>
+			<line class="st9" x2="213.9" y2="-25.5" x1="219.2" y1="-20.3"/>
+			<line class="st9" x2="240.1" y2="-36.4" x1="240.1" y1="-29"/>
+			<line class="st9" x2="266.3" y2="-25.5" x1="261" y1="-20.3"/>
+			<line class="st9" x2="277.1" y2="0.7" x1="269.7" y1="0.7"/>
+		</g>
+		<g>
+			<g>
+				<linearGradient id="LampHighlight_1_" gradientUnits="userSpaceOnUse" x1="219" y1="5.05" x2="261.2682" y2="5.05">
+					<stop  offset="0.15" style="stop-color:#A1F2FF"/>
+					<stop  offset="0.85" style="stop-color:#6BD7FF"/>
+				</linearGradient>
+				<path id="LampHighlight" class="st10" d="M261.2,0.7c0-11.7-9.5-21.1-21.1-21.1S219-10.9,219,0.7c0,8.2,4.7,15.3,11.5,18.8v11
+					h19.2v-11C256.5,16,261.2,8.9,261.2,0.7z"/>
+				<path class="st11" d="M249.7,31.4h-19.2c-0.6,0-1-0.4-1-1V20.1C222.4,16.2,218,8.8,218,0.7c0-12.2,9.9-22.1,22.1-22.1
+					s22.1,9.9,22.1,22.1c0,8.1-4.4,15.5-11.5,19.4v10.4C250.7,31,250.3,31.4,249.7,31.4z M231.5,29.4h17.2v-10
+					c0-0.4,0.2-0.7,0.5-0.9c6.8-3.5,11-10.3,11-17.9c0-11.1-9-20.1-20.1-20.1S220-10.5,220,0.6c0,7.6,4.2,14.5,11,17.9
+					c0.3,0.2,0.5,0.5,0.5,0.9L231.5,29.4L231.5,29.4z"/>
+			</g>
+			<path class="st3" d="M228.6,0.1c0-2.1,1.7-3.8,3.8-3.8s3.8,1.7,3.8,3.8c0,0.7,0,3.8,0,3.8s-2.4,0-3.8,0
+				C230.3,4,228.6,2.2,228.6,0.1z"/>
+			<line class="st3" x1="236.3" y1="4" x2="236.3" y2="13.7"/>
+			<path class="st3" d="M251.6,0.1c0-2.1-1.7-3.8-3.8-3.8S244-2,244,0.1c0,0.7,0,3.8,0,3.8s2.4,0,3.8,0C249.9,4,251.6,2.2,251.6,0.1
+				z"/>
+			<line class="st3" x1="243.9" y1="4" x2="243.9" y2="13.7"/>
+			<line class="st3" x1="236.3" y1="4" x2="243.9" y2="4"/>
+			<line class="st3" x1="230.5" y1="36.2" x2="249.7" y2="36.2"/>
+		</g>
+	</g>
+	<path class="st1" d="M257.7,211.3V57.9c0-4.2-3.4-7.7-7.7-7.7"/>
+	<polyline class="st1" points="318.8,149.6 318.8,211.3 318.8,149.6 	"/>
+	<line class="st3" x1="172.5" y1="149.6" x2="227.1" y2="149.6"/>
+	<line class="st3" x1="227.1" y1="211.3" x2="227.1" y2="142.7"/>
+</g>
+<g class="st12">
+	<clipPath id="SVGID_8_">
+		<rect id="SVGID_7_" x="65" y="-65" width="161.4" height="330"/>
+		<rect x="320" y="-65" width="200" height="330"/>
+	</clipPath>
+	<g class="document-container">
+		<g id="Document">
+			<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="104" y1="3.95" x2="143" y2="3.95">
+				<stop  offset="0.15" style="stop-color:#A1F2FF"/>
+				<stop  offset="0.85" style="stop-color:#6BD7FF"/>
+			</linearGradient>
+			<polygon class="st13" points="133.3,-20.4 104,-20.4 104,28.3 143,28.3 143,-10.7 			"/>
+			<polyline class="st3" points="133.3,-20.4 133.3,-10.7 143,-10.7 			"/>
+			<circle class="st1" cx="123.5" cy="4" r="11.4"/>
+			<polyline class="st1" points="123.5,-7.4 123.5,4 134.9,4 			"/>
+		</g>
+	</g>
+</g>
+<path id="FallTrajectory" class="st3" d="M290.9,121 h40 q 50 0 50 50 v80"/>
+<script  xlink:href="./anime.js"></script>
+<script  xlink:href="./animation-1.js"></script>
+</svg>
